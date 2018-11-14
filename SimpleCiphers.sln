@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{EC2DF120-BAD6-438E-B0AD-3072D81679D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{0DE1AF63-4D7E-4906-B88C-5E8D9B9CA0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AffineCipher", "AffineCipher\AffineCipher.csproj", "{85A43FC7-3786-4875-92A7-356ECA2B0E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AffineCipher_custom", "AffineCipher_custom\AffineCipher_custom.csproj", "{2089A288-2688-4E3C-BE21-4E919FC086EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2DF120-BAD6-438E-B0AD-3072D81679D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2DF120-BAD6-438E-B0AD-3072D81679D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2DF120-BAD6-438E-B0AD-3072D81679D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2DF120-BAD6-438E-B0AD-3072D81679D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE1AF63-4D7E-4906-B88C-5E8D9B9CA0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE1AF63-4D7E-4906-B88C-5E8D9B9CA0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE1AF63-4D7E-4906-B88C-5E8D9B9CA0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE1AF63-4D7E-4906-B88C-5E8D9B9CA0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A43FC7-3786-4875-92A7-356ECA2B0E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A43FC7-3786-4875-92A7-356ECA2B0E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A43FC7-3786-4875-92A7-356ECA2B0E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A43FC7-3786-4875-92A7-356ECA2B0E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2089A288-2688-4E3C-BE21-4E919FC086EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2089A288-2688-4E3C-BE21-4E919FC086EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2089A288-2688-4E3C-BE21-4E919FC086EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2089A288-2688-4E3C-BE21-4E919FC086EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B984AC4-859B-48AF-BDDA-BA93C9CF7B04}
+	EndGlobalSection
+EndGlobal
